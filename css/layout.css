@@ -24,4 +24,38 @@
 
 /* Posititoning Classes */
 
+.wrapper {
+  width: 1080 px;
+  margin: 0 auto;
 
+}
+
+.col-1 {
+  float: left;
+  width: 32%;
+  background: grey;
+}
+
+.col-2 {
+  float: left;
+  width: 66%;
+
+
+}
+
+.col-4 {
+  float: left;
+  width: 32%;
+}
+
+[class*="col-"] {
+  margin-left: 2%;
+}
+
+.first {
+  margin-left:0%;
+}
+
+img, video, audio {
+  max-width: 100%;
+}
