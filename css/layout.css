@@ -33,7 +33,6 @@
 .col-1 {
   float: left;
   width: 32%;
-  background: grey;
 }
 
 .col-2 {
@@ -43,7 +42,7 @@
 
 }
 
-.col-4 {
+.col-3 {
   float: left;
   width: 32%;
 }
